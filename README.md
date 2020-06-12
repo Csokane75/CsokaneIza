@@ -1,0 +1,2 @@
+# CsokaneIza
+Gyakorlás
